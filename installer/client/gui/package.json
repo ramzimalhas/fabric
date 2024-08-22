@@ -18,6 +18,6 @@
     "mammoth": "^1.6.0",
     "node-fetch": "^2.6.7",
     "pdf-parse": "^1.1.1",
-    "unzipper": "^0.10.14"
+    "unzipper": "^0.12.3"
   }
 }
